@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/rental-car/static/css/main.e2f5c315.chunk.css",
+    "main.js": "/rental-car/static/js/main.24a38ff7.chunk.js",
+    "main.js.map": "/rental-car/static/js/main.24a38ff7.chunk.js.map",
+    "runtime~main.js": "/rental-car/static/js/runtime~main.9c883610.js",
+    "runtime~main.js.map": "/rental-car/static/js/runtime~main.9c883610.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/rental-car/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/rental-car/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/rental-car/index.html",
+    "precache-manifest.1381732ebc135b2a03c9f7f886add659.js": "/rental-car/precache-manifest.1381732ebc135b2a03c9f7f886add659.js",
+    "service-worker.js": "/rental-car/service-worker.js",
+    "static/css/main.e2f5c315.chunk.css.map": "/rental-car/static/css/main.e2f5c315.chunk.css.map",
+    "static/media/benz.jpeg": "/rental-car/static/media/benz.e7d92a84.jpeg",
+    "static/media/corando.jpeg": "/rental-car/static/media/corando.7f078003.jpeg",
+    "static/media/elec.jpeg": "/rental-car/static/media/elec.d0e3f3e6.jpeg",
+    "static/media/genesis.jpeg": "/rental-car/static/media/genesis.87a1dccd.jpeg",
+    "static/media/logo.svg": "/rental-car/static/media/logo.5d5d9eef.svg",
+    "static/media/main_banner(mob).jpeg": "/rental-car/static/media/main_banner(mob).b8c38c69.jpeg",
+    "static/media/qm.jpeg": "/rental-car/static/media/qm.3605c87e.jpeg",
+    "static/media/santafe.jpeg": "/rental-car/static/media/santafe.2e81f8db.jpeg",
+    "static/media/smsuv.jpeg": "/rental-car/static/media/smsuv.fc405ec3.jpeg",
+    "static/media/sonata.jpeg": "/rental-car/static/media/sonata.13012f10.jpeg",
+    "static/media/spark.jpeg": "/rental-car/static/media/spark.4d1d8110.jpeg",
+    "static/media/suv.jpeg": "/rental-car/static/media/suv.03f9a418.jpeg"
+  }
+}
