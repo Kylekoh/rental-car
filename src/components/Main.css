@@ -1,0 +1,10 @@
+#main_banner {
+    display: flex;
+    margin-top: 1rem;
+    justify-content: center;
+}
+
+#main_banner img {
+    width: 100%;
+    height: 250px;
+}
