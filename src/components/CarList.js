@@ -19,12 +19,12 @@ class CarList extends Component {
                     </li>
                     <li id="car_list">
                         <img src={require('../images/car/genesis.jpeg')} alt="genesis" />
-                        <Countdown date="2019-06-31T16:33:00"></Countdown>
+                        <Countdown date="2019-07-01T16:33:00"></Countdown>
                         <button className="cal_price"><a href="#tenping">다이렉트특가확인</a></button>
                     </li>
                     <li id="car_list">
                         <img src={require('../images/car/benz.jpeg')} alt="benz" />
-                        <Countdown date="2019-06-31T16:33:00"></Countdown>
+                        <Countdown date="2019-07-01T16:33:00"></Countdown>
                         <button className="cal_price"><a href="#tenping">다이렉트특가확인</a></button>
                     </li>
                     <li id="car_list">
