@@ -8,7 +8,6 @@ class Tenping extends Component {
 
         script.src = "//ads.tenping.kr/scripts/adsbytenping.min.js";
         script.async = true;
-
         document.body.appendChild(script)
     }
     render() {

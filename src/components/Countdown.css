@@ -1,0 +1,36 @@
+#day {
+    background: #282c34;
+    padding : 0.2rem;
+    margin-right: 0.2rem;
+}
+
+#hours {
+    background: gray;
+    padding: 0.2rem;
+    margin: 0.05rem;
+}
+
+#min {
+    background: gray;
+    padding: 0.2rem;
+    margin: 0.05rem;
+}
+
+#sec {
+    background: gray;
+    padding: 0.2rem;
+}
+
+.Countdown {
+    position: absolute;
+    top: 5%;
+    right: 10.5%;
+}
+
+.Countdown-col-element strong{
+    color: white;
+    font-size: 0.7rem;
+    width: 20px;
+    margin-right: 0.1rem;
+}
+

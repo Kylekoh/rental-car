@@ -4,7 +4,7 @@
     flex-direction: row;
     width: 100%;
     height: auto;
-    position: sticky;
+    position: relative;
     position: -webkit-sticky;
     top: 0;
     background-color: white;
