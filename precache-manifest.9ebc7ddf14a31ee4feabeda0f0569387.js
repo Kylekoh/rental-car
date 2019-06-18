@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62e6d0b60673df4ae27b74355adee7eb",
+    "revision": "377d576dce491c462094a78fbfd4f8ea",
     "url": "/rental-car/index.html"
   },
   {
-    "revision": "9cb53c992d2df6d5a525",
-    "url": "/rental-car/static/css/main.e2f5c315.chunk.css"
+    "revision": "936af507aad19ae6bcab",
+    "url": "/rental-car/static/css/main.d84fe063.chunk.css"
   },
   {
     "revision": "9eee67cf782a38d35aeb",
     "url": "/rental-car/static/js/2.d6a534e5.chunk.js"
   },
   {
-    "revision": "9cb53c992d2df6d5a525",
+    "revision": "936af507aad19ae6bcab",
     "url": "/rental-car/static/js/main.24a38ff7.chunk.js"
   },
   {

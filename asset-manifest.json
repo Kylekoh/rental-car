@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rental-car/static/css/main.e2f5c315.chunk.css",
+    "main.css": "/rental-car/static/css/main.d84fe063.chunk.css",
     "main.js": "/rental-car/static/js/main.24a38ff7.chunk.js",
     "main.js.map": "/rental-car/static/js/main.24a38ff7.chunk.js.map",
     "runtime~main.js": "/rental-car/static/js/runtime~main.9c883610.js",
@@ -8,9 +8,9 @@
     "static/js/2.d6a534e5.chunk.js": "/rental-car/static/js/2.d6a534e5.chunk.js",
     "static/js/2.d6a534e5.chunk.js.map": "/rental-car/static/js/2.d6a534e5.chunk.js.map",
     "index.html": "/rental-car/index.html",
-    "precache-manifest.1381732ebc135b2a03c9f7f886add659.js": "/rental-car/precache-manifest.1381732ebc135b2a03c9f7f886add659.js",
+    "precache-manifest.9ebc7ddf14a31ee4feabeda0f0569387.js": "/rental-car/precache-manifest.9ebc7ddf14a31ee4feabeda0f0569387.js",
     "service-worker.js": "/rental-car/service-worker.js",
-    "static/css/main.e2f5c315.chunk.css.map": "/rental-car/static/css/main.e2f5c315.chunk.css.map",
+    "static/css/main.d84fe063.chunk.css.map": "/rental-car/static/css/main.d84fe063.chunk.css.map",
     "static/media/benz.jpeg": "/rental-car/static/media/benz.e7d92a84.jpeg",
     "static/media/corando.jpeg": "/rental-car/static/media/corando.7f078003.jpeg",
     "static/media/elec.jpeg": "/rental-car/static/media/elec.d0e3f3e6.jpeg",
