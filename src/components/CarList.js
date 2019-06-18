@@ -9,7 +9,7 @@ class CarList extends Component {
                 <ul className="list_container">
                     <li id="car_list">
                         <a href="#tenping">
-                            <img src={require('../images/car/santafe.jpeg')} alt="santafe" />
+                            <img src={require('../images/car/santafe.jpeg')} id="santafe" alt="santafe" />
                             <Countdown date="2019-06-29T16:33:00"></Countdown>
                             <button className="cal_price">다이렉트특가확인</button>
                         </a>

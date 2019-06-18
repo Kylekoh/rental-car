@@ -7,7 +7,7 @@ class Main extends Component {
         return (
             <div className="banner_wrapper">
                 <h1 id="main_banner">
-                    <a href="#tenping">
+                    <a href="#santafe">
                         <img src={require('../images/logo/main_banner(mob).jpeg')} alt="롯데렌터카" />
                     </a>
                 </h1>
