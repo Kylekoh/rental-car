@@ -1,27 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.63552efc.chunk.css",
-    "main.js": "/static/js/main.05e52376.chunk.js",
-    "main.js.map": "/static/js/main.05e52376.chunk.js.map",
+    "main.css": "/static/css/main.5a3097b0.chunk.css",
+    "main.js": "/static/js/main.0e6c4ed1.chunk.js",
+    "main.js.map": "/static/js/main.0e6c4ed1.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/js/2.d6a534e5.chunk.js": "/static/js/2.d6a534e5.chunk.js",
     "static/js/2.d6a534e5.chunk.js.map": "/static/js/2.d6a534e5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.40d16d7e5d5923a8df9d3941348bff10.js": "/precache-manifest.40d16d7e5d5923a8df9d3941348bff10.js",
+    "precache-manifest.27338d9db8364153ea4825cd8f32e9ca.js": "/precache-manifest.27338d9db8364153ea4825cd8f32e9ca.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.63552efc.chunk.css.map": "/static/css/main.63552efc.chunk.css.map",
+    "static/css/main.5a3097b0.chunk.css.map": "/static/css/main.5a3097b0.chunk.css.map",
     "static/media/benz.jpeg": "/static/media/benz.e7d92a84.jpeg",
-    "static/media/corando.jpeg": "/static/media/corando.7f078003.jpeg",
-    "static/media/elec.jpeg": "/static/media/elec.d0e3f3e6.jpeg",
     "static/media/genesis.jpeg": "/static/media/genesis.87a1dccd.jpeg",
     "static/media/gift.png": "/static/media/gift.413dc334.png",
     "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-    "static/media/main_banner(mob).jpeg": "/static/media/main_banner(mob).b8c38c69.jpeg",
+    "static/media/main_banner(mob).jpeg": "/static/media/main_banner(mob).66f222b5.jpeg",
     "static/media/santafe.jpeg": "/static/media/santafe.2e81f8db.jpeg",
-    "static/media/smsuv.jpeg": "/static/media/smsuv.fc405ec3.jpeg",
     "static/media/sonata.jpeg": "/static/media/sonata.13012f10.jpeg",
-    "static/media/spark.jpeg": "/static/media/spark.4d1d8110.jpeg",
     "static/media/suv.jpeg": "/static/media/suv.03f9a418.jpeg"
   }
 }
