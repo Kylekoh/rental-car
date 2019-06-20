@@ -4,6 +4,8 @@
     flex-direction: column;
     /* justify-content: center; */
     padding: 0;
+    justify-content: center;
+    align-items: center;
 }
 
 #car_list {
@@ -12,28 +14,27 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 0.5rem;
 }
 
 #car_list img{
     border: 0.1px solid gray;
-    border-bottom: 0px;
     padding: 0.2rem;
     width: 78%;
-    height: 140px;
+    height: 160px;
 }
 
 .cal_price {
-    width: 79.5%;
-    height: 2.2rem;
-    font-size: 0.9rem;
+    width: 20rem;
+    height: 2.5rem;
+    font-size: 1.2rem;
+    font-weight: bold;
     color: white;
     align-items: center;
-    background-color: #332e2e;
+    background-color: #F0403F;
     border: none;
     font-family: 'NanumBarunGothic';
-    /* position: absolute; */
-    /* top: 65%;
-    left: 20.5%; */
+    margin-top: 2rem;
 }
 
 .cal_price a{

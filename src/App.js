@@ -14,8 +14,8 @@ function App() {
     <div className="App">
     <Header></Header>
     <Main></Main>
-    <Gift></Gift>
     <CarList></CarList>
+    <Gift></Gift>
     <Tenping></Tenping>
     </div>
   );
