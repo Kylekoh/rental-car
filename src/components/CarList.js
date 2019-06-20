@@ -39,7 +39,7 @@ class CarList extends Component {
                         </a>
                     </li>
                     <a href="#tenping">    
-                        <button className="cal_price">핫딜가격 상담받기</button>
+                        <button className="cal_price">특가견적 받아보기</button>
                     </a>
                 </ul>
                 
